@@ -19,7 +19,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://discord.com/channels/@me/685872495039217741/983493040985477132" width="30"> from Russia.
+I am a Frontend Developer <img src="https://media.discordapp.net/attachments/935679296712888330/969901639303565342/12810C56-EA62-4F66-A44D-88F13CB653BE.gif" width="30"> from Russia.
 - :telescope: I have a secondary professional education - Programmer;
 
 - :seedling: I want to develop in the direction of React;
