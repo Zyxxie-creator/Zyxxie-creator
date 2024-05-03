@@ -3,12 +3,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/>
   <div id="badges">
-   <!-- <a href="https://steamcommunity.com/id/Zyxxie1/">
-      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
-    </a> -->
-    <a href="https://open.spotify.com/user/7oi0xjqxa4axo6ru8pxteskh5?si=a3e66d21269d4578">
-      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Zyxxie-creator&style=flat-square&color=blue" alt=""/>
 </div>
