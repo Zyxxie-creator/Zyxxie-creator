@@ -12,15 +12,8 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Frontend Developer from Russia.
-- :telescope: I have a secondary professional education - Programmer;
-
-- :seedling: I want to develop in the direction of React;
-
-- :zap: I know how to implement SPA applications, process REST API, used libraries such as Redux, Formik, Axios, React Router.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zyxxie)
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ilyaGoncharov93)
 
 ---
 
@@ -45,7 +38,6 @@ I am a Frontend Developer from Russia.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zyxxie-creator&theme=modern-lilac2&border_radius=4&card_width=512)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyxxie-creator&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
